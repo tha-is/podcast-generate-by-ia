@@ -7,7 +7,7 @@ Diziam que quem conseguisse conjurá-lo seria capaz de fazer tudo ao mesmo tempo
 Mas o pobre aprendiz, ansioso e com olheiras dignas de um elfo programador, acabou criando uma anomalia: um vórtice de tarefas inacabadas que engoliu metade do castelo.
 Reza a lenda que, desde então, Produtória vive sob a maldição das notificações infinitas.
 
-E é aqui que entra nossa guardiã — Dama Thaísia, protetora do Grimório do Foco — tentando ensinar os habitantes desse reino (e você, ouvinte) a quebrar esse feitiço.
+E é aqui que entra nossa guardiã — Dama Thais, protetora do Grimório do Foco — tentando ensinar os habitantes desse reino (e você, ouvinte) a quebrar esse feitiço.
 
 [MODELO DE ORGANIZAÇÃO, FOCO E PROPÓSITO]
 
@@ -36,4 +36,4 @@ Ou como diria um mago sábio do reino: “Melhor um feitiço completo do que dez
 E assim encerramos mais uma página do Grimório do Foco.
 No próximo capítulo, talvez descubramos se o aprendiz sobreviveu ao vórtice — ou se virou gerente de projetos.
 
-Eu sou a Thaís, guardiã do Grimório do Foco, e esse foi o episódio dessa semana.
+Eu sou a Thais, guardiã do Grimório do Foco, e esse foi o episódio dessa semana.
