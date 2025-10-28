@@ -36,4 +36,4 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ---
 
-⌨️ com 💜 por [Thais](https://github.com/tha-is)
+W/ 💜 by [Thais](https://github.com/tha-is)
