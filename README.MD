@@ -4,7 +4,6 @@
 
 A proposta é unir criatividade, humor e tecnologia para produzir episódios dinâmicos e envolventes — especialmente pensados para a nova geração de ouvintes com foco em produtividade, propósito e autoconhecimento.
 
----
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -12,7 +11,6 @@ A proposta é unir criatividade, humor e tecnologia para produzir episódios din
 - [Bing Image Creator](https://www.bing.com/images/create)
 - [ElevenLabs](https://elevenlabs.io/app)
 
----
 
 ## 💡 Como Funciona  
 
@@ -21,14 +19,12 @@ O **Podcast Generator IA** recebe prompts personalizados e gera:
 2. Uma **voz narrada** no estilo da apresentadora fictícia *Dama Thais, guardiã do Grimório do Foco*  
 3. (Opcional) Uma **imagem temática** de capa para o episódio  
 
----
 
 ## 📚 Materiais
 
 - [Desafio DIO](https://www.dio.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
+- [Notion Template](https://www.notion.so/Podcast-AI-Studio-299c4d68fa5b81519396f8d9c9c07be1?source=copy_link)
 
----
 
 ## 🛠️ Instruções de execução
 
